@@ -28,7 +28,7 @@ An open source Numbered Musical Notation (Jianpu) font.
 ## 開源授權規定
 
 * 本字型基於 SIL Open Font License 1.1 授權，多數字符又取自其他 OFL 1.1 開源字型專案，包括：
-  * [Krona One](https://fonts.google.com/specimen/Krona+One).
+  * [Krona One](https://fonts.google.com/specimen/Krona+One), Sorkin Type Co.
   * [Noto Music](https://fonts.google.com/noto/specimen/Noto+Music), The Noto Project Authors, Google Inc.
   * [Yrsa](https://github.com/rosettatype/yrsa-rasa), The Yrsa-Rasa Project Authors.
   * [Bravura](https://github.com/steinbergmedia/bravura), Steinberg Media Technologies GmbH.
