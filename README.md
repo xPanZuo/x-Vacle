@@ -15,7 +15,7 @@ An open source Numbered Musical Notation (Jianpu) font.
 
 目前最新版本為 1.000。
 
-請點選本頁面右側「[Releases](https://github.com/ButTaiwan/iansui/releases)」處的最新發行版本，下載 xvacle.zip。解壓縮後安裝裡面的 .ttf 字型檔案即可。
+請點選本頁面右側「[Releases](https://github.com/xPanZuo/x-Vacle/releases)」處的最新發行版本，下載 xvacle.zip。解壓縮後安裝裡面的 .ttf 字型檔案即可。
 
 ## 說明書
 
